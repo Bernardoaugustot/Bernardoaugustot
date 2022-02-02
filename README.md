@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Bernardo Augusto 🇧🇷
+## Fala meu Bom 👋, Aqui Bernardo Augusto 🇧🇷 o desenvolvedor mais quente da sua tela.
 
 ### - Back End developer 💻
 
@@ -26,4 +26,5 @@ src="https://cdn.discordapp.com/attachments/885721251417583630/92873625554036328
   <a href= "https://www.linkedin.com/in/bernardo-augusto-996803189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/Bernardoaugustot/blob/output/github-contribution-grid-snake.svg)
-<div>
+  
+</div>
