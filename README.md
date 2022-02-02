@@ -25,3 +25,4 @@ src="https://cdn.discordapp.com/attachments/885721251417583630/92873625554036328
   <a href = "mailto:bernardo.augustot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/bernardo-augusto-996803189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/rafaballerini/Bernardoaugustot/blob/output/github-contribution-grid-snake.svg)
