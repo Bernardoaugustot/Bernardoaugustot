@@ -14,6 +14,7 @@
   <img align="center" alt="Jhow-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <i class="devicon-jupyter-plain colored"></i>
   <img align="right" alt="Jhow-pic" height="150" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/885721251417583630/928736255540363285/kindpng_7143956.png">
 </div>
