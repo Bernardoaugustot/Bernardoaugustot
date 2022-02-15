@@ -16,6 +16,7 @@
   <img align="center" alt="br-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="br-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="br-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img align="center" alt="br-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="right" alt="Jhow-pic" height="150" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/885721251417583630/928736255540363285/kindpng_7143956.png">
 </div>
