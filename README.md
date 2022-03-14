@@ -1,6 +1,6 @@
 ## Fala meu Bom 👋, Aqui Bernardo Augusto 🇧🇷 o desenvolvedor mais quente da sua tela.
 
-### - Back End developer 💻
+### - Back End developer 💻💻
 
 ### - Studying software analysis and development 📚 📚 📚
 
