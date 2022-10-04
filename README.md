@@ -16,11 +16,11 @@
   <img align="center" alt="br-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="br-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="br-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="right" alt="Jhow-pic" height="150" style="border-radius:50px;" 
-src="https://cdn.discordapp.com/attachments/885721251417583630/928736255540363285/kindpng_7143956.png">
+  <img align="right" alt="Jhow-pic" height="150" style="border-radius:50px;" https://cdn-lor.mobalytics.gg/production/images/set6/en_us/img/card/game/06FR012T1-full.png
+src="https://cdn.discordapp.com/attachments/885721251417583630/1026688993414361148/token_1.png">
 </div>
 
-##
+## 
 
 <div> 
   <a href="https://www.instagram.com/bernardo_augusto75/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,6 +28,6 @@ src="https://cdn.discordapp.com/attachments/885721251417583630/92873625554036328
   <a href= "https://www.linkedin.com/in/bernardo-augusto-996803189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   <h4> Postando todo dia interruptamente desde: 18/09/2022 </h4>
-  <h3>🔥  The match is struck. A blazing star is born!	🔥</h3>
+  <h3>🔥  È necessário tempo e empenho para se fazer algo realmente magnífico!	🔥</h3>
 
 
