@@ -2,7 +2,7 @@
 
 ### - Back End developer 💻💻
 
-### - Studying software analysis and development 📚 📚 📚
+### - Studying software analysis and development 📚 📚 📚 📚
 
   <div align="center">
   <a href="https://github.com/Bernardoaugustot">
