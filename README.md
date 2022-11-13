@@ -27,7 +27,8 @@ src="https://cdn.discordapp.com/attachments/885721251417583630/10266889934143611
   <a href = "mailto:bernardo.augustot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/bernardo-augusto-996803189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  <h4> Postando todo dia interruptamente desde: 18/09/2022 (3 Semanas)</h4>
+  
   <h3>🔥  È necessário tempo e empenho para se fazer algo realmente magnífico!	🔥</h3>
 
-
+  <h4> Certificados & Diplomas:</h4>
+  Python Pandas: https://cursos.alura.com.br/certificate/bernardo-augustot/introducao-python-pandas
