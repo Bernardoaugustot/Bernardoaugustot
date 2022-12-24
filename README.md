@@ -31,6 +31,6 @@ src="https://cdn.discordapp.com/attachments/885721251417583630/10266889934143611
   <h3>🔥  È necessário tempo e empenho para se fazer algo realmente magnífico!	🔥</h3>
 
   <h4> Certificados & Diplomas:</h4>
-  PYTHON PANDAS: TRATANDO E ANALISANDO DADOS -  https://cursos.alura.com.br/certificate/bernardo-augustot/introducao-python-pandas
-  DATA SCIENCE: ANÁLISE DE SERIES TEMPORAIS - https://cursos.alura.com.br/user/bernardo-augustot/course/data-science-series-temporais/certificate
-  CORRETOR ORTOGRÁFICO EM PYTHON: APLICANDO TÉCNICAS DE NLP - https://cursos.alura.com.br/certificate/bernardo-augustot/nlp-corretor-ortografico
+  PYTHON PANDAS: TRATANDO E ANALISANDO DADOS -  https://cursos.alura.com.br/certificate/bernardo-augustot/introducao-python-pandas <br />
+  DATA SCIENCE: ANÁLISE DE SERIES TEMPORAIS - https://cursos.alura.com.br/user/bernardo-augustot/course/data-science-series-temporais/certificate <br />
+  CORRETOR ORTOGRÁFICO EM PYTHON: APLICANDO TÉCNICAS DE NLP - https://cursos.alura.com.br/certificate/bernardo-augustot/nlp-corretor-ortografico <br />
